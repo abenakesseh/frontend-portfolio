@@ -1,0 +1,56 @@
+.container{
+	height: 330px;
+	width: 1000px;
+	position: absolute;
+	top: 10%;
+	left: 9%;
+	background: lightgrey;
+}
+
+.title{
+	padding-top: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	color: royalblue;
+}
+
+.subtitle{
+	text-align: center;
+	color: black;
+	padding-top: 20px;
+}
+
+.form-control{
+	width: 800px;
+	font-size: 14px;
+}
+
+.form-group{
+	margin-left: 60px;
+	font-size: 17px;
+}
+
+.btn{
+	float: left;
+	height: 38px;
+	width: 120px;
+	font-size: 20px;
+	margin-left: 60px;
+}
+
+.footer{
+	color: #777;
+	padding-bottom: 30px;
+	font-size: 16px;
+}
+
+.row-marketing{
+	padding-top: 80px;
+	float: initial;
+}
+
+.saved{
+	color: white;
+	background: green;
+	border: 5px solid green;
+}
